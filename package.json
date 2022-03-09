@@ -9,7 +9,7 @@
     "test": "jest",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
-  "repository": "https://github.com/bkokster/rnpm.git",
+  "repository": "git://github.com/bkokster/rnpm.git",
   "dependencies": {
     "axios": "^0.26.0",
     "lodash": "^4.17.21",
