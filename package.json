@@ -1,6 +1,6 @@
 {
   "name": "@bkokster/rnpm",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "scripts": {
     "android": "react-native run-android",
@@ -9,6 +9,7 @@
     "test": "jest",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
+  "main": "lib/App.tsx",
   "repository": "git://github.com/bkokster/rnpm.git",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
