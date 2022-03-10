@@ -1,7 +1,8 @@
-import React, { Component } from 'react';
-import Modal from "react-native-modal";
-import {NativeModules, NativeEventEmitter, View, Text, StyleSheet, SafeAreaView} from 'react-native';
-import PropTypes from 'prop-types';
+// import React, { Component } from 'react';
+// import Modal from "react-native-modal";
+// import {NativeModules, NativeEventEmitter, View, Text, StyleSheet, SafeAreaView} from 'react-native';
+// import PropTypes from 'prop-types';
+import {NativeModules} from 'react-native';
 
 class PeachMobileModule {
 
